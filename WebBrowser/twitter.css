@@ -1,0 +1,84 @@
+/* side bar */
+.r-1tl8opc {
+	font-family: sans-serif !important;
+	font-size: 14px !important;
+}
+
+nav>a {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+nav.css-1dbjc4n.r-1habvwh.r-eqz5dr span.css-901oao.css-16my406.r-1tl8opc.r-bcqeeo.r-qvutc0 {
+	font-weight: bold !important;
+}
+
+/* side bar icon color */
+svg.r-18jsvk2.r-4qtqp9.r-yyyyoo.r-lwhw9o.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr {
+	color: rgb(29, 161, 242) !important;
+}
+
+/* hide twitter dog icon
+.css-1dbjc4n.r-dnmrzs.r-1vvnge1 {
+    visibility:hidden !important;
+}*/
+
+/* hide promotion */
+div.css-1dbjc4n.r-j5o65s.r-qklmqi.r-1adg3ll.r-1ny4l3l>div.css-1dbjc4n>div[data-testid="placementTracking"] {
+	display:none !important;
+}
+
+/* badge color */
+nav.css-1dbjc4n.r-eqz5dr .r-l5o3uw.r-11mg6pl {
+	background-color: #FF0000 !important;
+}
+
+/* hide message pop up */
+.css-1dbjc4n.r-173mn98.r-14lw9ot.r-c67a83.r-1qk6wnv.r-1upvrn0.r-hvns9x.r-1jte41z {
+	display:none !important;
+}
+
+/* hide top tweet area */
+.css-1dbjc4n.r-14lw9ot.r-184en5c>.css-1dbjc4n.r-iphfwy {
+	display:none !important;
+}
+
+/* hide Twitter Blue */
+nav.css-1dbjc4n.r-eqz5dr>a:nth-child(6) {
+	display:none !important;
+}
+
+/* hide tweet box audience selector */
+.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wtj0ep.r-136ojw6>.css-1dbjc4n.r-13qz1uu>.css-1dbjc4n.r-xoduu5.r-18u37iz.r-kzbkwu {
+	display:none !important;
+}
+
+/* disable header tab stay
+.r-gtdqiz {
+	position: static !important;
+}*/
+
+/* reduce header height */
+
+div[data-testid="primaryColumn"] .css-1dbjc4n.r-1h3ijdo.r-136ojw6 {
+    height: 36px !important;
+}
+
+.css-1dbjc4n.r-aqfbo4.r-gtdqiz.r-1gn8etr.r-1g40b8q a {
+    height: 42px !important;
+}
+
+.r-1h3ijdo {
+    height: 48px;
+}
+
+.css-1dbjc4n.r-aqfbo4.r-gtdqiz.r-1gn8etr.r-1g40b8q a>div>div {
+    padding-top: 14px !important;
+    padding-bottom: 6px !important;
+}
+
+/* new tweet button position */
+.css-1dbjc4n.r-633pao.r-u8s1d.r-dkhcqf.r-axxi2z.r-18jm5s1.r-13qz1uu.r-1wyyakw {
+    transform: translate3d(0px, 0px, 0px) translateY(32px) !important;
+    z-index: 4 !important;
+}
